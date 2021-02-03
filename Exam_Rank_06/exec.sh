@@ -1,0 +1,1 @@
+clang -Wextra -Wall -Werror mini_serv.c mini_serv

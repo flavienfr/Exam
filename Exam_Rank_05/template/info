@@ -1,0 +1,41 @@
+return malloc object
+	return (new Class());
+
+Tilda
+	~: shift + `
+
+Quand on utilise class extern l'inclure directement
+
+Ce relire à chaque fin de fichier 
+
+const class !!!!!!!!!!!! 
+
+Compléter les contructeru par copier ou ne pas les définir
+
+destructeur de warlock ex01
+
+Ex01:
+	Dummy.h/cpp
+Exo2:
+	a cirt
+
+Destructor virtual
+
+
+************
+- Reviser canonique formei (remplir function cpp)
+- full const getter
+- fonction pure =0
+- completer overload = dans ATarget ASell
+- les ;;;;;;
+{
+void learnSpell(ASpell *aspell_ptr);
+void forgetSpell(std::string name);
+void launchSpell(std::string name, ATarget const &atarget_ref);
+}
+- bien relir canoniaue de base avant de save
+- le ~ apres pas avant
+- completer contructeru par copie et overload=
+- ajouter constructeur supllementaire cote cpp
+- tj copier coller le hpp dans le cpp pour eviter erreur
+- Full const:  ASpell(sauf clone avant)
